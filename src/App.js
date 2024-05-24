@@ -75,6 +75,7 @@ class App extends Component {
               )}
             />
             <Route path="/about" component={About} />
+            <h4> hatem yakoubi 2GL2</h4>
           </div>
         </div>
       </Router>
